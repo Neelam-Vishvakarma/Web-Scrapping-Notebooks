@@ -5,11 +5,11 @@ Welcome to the Web Scraping with BeautifulSoup repository! This is a curated col
 
 📚 **Topics Covered**:
 Each notebook contains
-    Target website URL
-    Goal of scraping
-    HTML analysis walkthrough
-    Actual code using **requests** and **BeautifulSoup** libraries
-    Extracted data (in DataFrame or JSON format)
+    -Target website URL
+    -Goal of scraping
+    -HTML analysis walkthrough
+    -Actual code using **requests** and **BeautifulSoup** libraries
+    -Extracted data (in DataFrame or JSON format)
 
 ---
 
@@ -24,8 +24,6 @@ Each notebook contains
 
 📬 **Contact**:
 If you have any questions, suggestions, or want to collaborate:
-
--
 
 [**Neelam Vishvakarma**]
 📧 Email ID: neelam1992vishvakarma@gmail.com 
