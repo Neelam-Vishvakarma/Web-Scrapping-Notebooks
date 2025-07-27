@@ -1,4 +1,4 @@
-🕷️ **Web Scraping with BeautifulSoup — IPython Notebooks**:
+# 🕷️ Web Scraping with BeautifulSoup — IPython Notebooks:
 Welcome to the Web Scraping with BeautifulSoup repository! This is a curated collection of hands-on web scraping tutorials using Python, BeautifulSoup, and requests, all written in IPython notebooks (Jupyter format). Ideal for beginners and intermediate learners who want to build practical web scraping skills.
 
 📚 **Topics Covered**:
